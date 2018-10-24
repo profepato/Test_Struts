@@ -1,0 +1,5 @@
+action/ControllerProductoAction.class
+model/Producto.class
+model/DAO_Producto.class
+model/Conexion.class
+model/DAO.class
